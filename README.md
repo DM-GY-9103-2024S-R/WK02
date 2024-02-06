@@ -3,5 +3,3 @@
 ## Exercises with
 
 - lists
-- objects
-- json files
